@@ -1,4 +1,4 @@
-# QDC Mini Assignmen
+# QDC Mini Assignment
 
 This repository contains a very small slice of **QDC (Quick Dry Cleaning Software)**, a B2B POS and business management app for retail laundry and dry-cleaning businesses. The goal is to simulate how you would work with an existing TypeScript/NestJS/React codebase, extend features, and reason about tradeoffs.
 
